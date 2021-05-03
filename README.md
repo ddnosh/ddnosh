@@ -4,6 +4,7 @@
 - I'm VBear.
 - [《Android App开发入门与实战》](https://item.jd.com/12696227.html)独著，人民邮电出版社出版.
 - 专注Android开发，让App开发更加轻松.
+- QQ技术交流群：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=5867e988b85eecbb8c50bedab9810624fc017ce71098ae9394e7c935a4125281"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Android开发技术交流" title="Android开发技术交流"></a>
 
 Android
 
