@@ -19,7 +19,7 @@ Android
 https://blog.csdn.net/ddnosh
 
 #### 公众号
-[最新技术](https://img-blog.csdnimg.cn/6708fa3acc404196912a0a2b702257c8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAW-Wbveawkeeoi-W6j-WRmF0=,size_11,color_FFFFFF,t_70,g_se,x_16)
+[最新技术](https://github.com/ddnosh/githubusercontent/blob/master/image/qrcode_for_gh_c85f9a8a7aaa_258.jpg)
 
 <!-- 访客 -->
 <p align="center">
