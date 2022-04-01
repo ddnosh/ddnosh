@@ -19,7 +19,7 @@ Android
 https://blog.csdn.net/ddnosh
 
 #### 公众号
-[国民程序员](http://mp.weixin.qq.com/profile?src=3&timestamp=1619962634&ver=1&signature=SQPB45EpscxCkz9c3MzKfC-*ToyL6CtjJSlw582vqt8keyj8eUScRJwxYMdfC1fAicT8bC5BcHXfXaDaQP9YCQ==)
+[最新技术](https://img-blog.csdnimg.cn/6708fa3acc404196912a0a2b702257c8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAW-Wbveawkeeoi-W6j-WRmF0=,size_11,color_FFFFFF,t_70,g_se,x_16)
 
 <!-- 访客 -->
 <p align="center">
