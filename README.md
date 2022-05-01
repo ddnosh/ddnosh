@@ -8,12 +8,11 @@
 
 Android
 
-![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&logoColor=%000000)
-![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git&logoColor=%000000)
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=%000000)
-![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=%000000)
-![Flutter](https://img.shields.io/badge/-Flutter-9cf?style=for-the-badge&logo=flutter&logoColor=%000000)
+-  </a><img src = "https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&logoColor=white"></a>
+-  </a><img src = "https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git&logoColor=white"></a>
+-  </a><img src = "https://img.shields.io/badge/-Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+-  </a><img src = "https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white"></a>
+-  </a><img src = "https://img.shields.io/badge/-Flutter-9cf?style=for-the-badge&logo=flutter&logoColor=white"></a>
 
 #### 博客
 https://blog.csdn.net/ddnosh
